@@ -15,4 +15,4 @@ www.paleobiodb.org
 
 Binder:
 
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pangeo-data/pangeo-docker-images/2021.09.30?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fbslibeck%252FRCES_Final_Project%26urlpath%3Dtree%252FRCES_Final_Project%252Fbbs2133_rces_final.ipynb%26branch%3Dmain)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pangeo-data/pangeo-docker-images/2021.09.30?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fbslibeck%252FRCES_Final_Project%252F%26urlpath%3Dtree%252F%252Fbbs2133_rces_final%252520%25281%2529.ipynb%26branch%3Dmain)
